@@ -1,1 +1,2 @@
-# sysken-web-bak-ckend
+# sysken-web-backend
+sysken-web常識のbackend用
